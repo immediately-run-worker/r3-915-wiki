@@ -1,0 +1,9 @@
+{
+  "opensWith": { "task": "open-wiki", "version": "1.0" },
+  "kind": "wiki",
+  "requests": {
+    "mounts": [
+      { "at": "/b/", "uri": "space:SLzRdvtXfoVz06Nt3E44", "subtree": "/wiki-assets", "mode": "ro", "required": true }
+    ]
+  }
+}
